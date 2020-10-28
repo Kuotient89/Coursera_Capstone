@@ -2,4 +2,4 @@
 
 This Repository is hopefully going to contain the results of the final task of the course on Data Science offered by IBM on Coursera.
 
-Check Coursera_Capstone.ipynb for current assignment.
+Geospatial_Coordinates.csv downloaded from http://cocl.us/Geospatial_data.
